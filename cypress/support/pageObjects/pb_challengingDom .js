@@ -1,4 +1,4 @@
-/// <reference types="Cypress" />
+/// <reference types="cypress" />
 
 import el_challengingDom from "../elements/el_challengingDom";
 const url = Cypress.config("baseUrl")
